@@ -17,4 +17,4 @@ https://daire.eu.org/sosial-link-ii
 ---
 
 `single page shopp`
-![]()
+![](./ss.png)
